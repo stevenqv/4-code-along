@@ -1,6 +1,6 @@
 /* This CSS was written by Steven Vo */
 
-/* GLOBAL STYLES (MOBILE) */
+/* GLOBAL STYLES (MOBILE FIRST) */
 body{
     display: grid;
     grid-template-columns: 1fr;
