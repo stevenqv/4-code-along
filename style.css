@@ -1,0 +1,7 @@
+/* This CSS was written by Steven Vo */
+
+/* GLOBAL STYLES (MOBILE) */
+body{
+    display: grid;
+    grid-template-columns: 1fr;
+}
